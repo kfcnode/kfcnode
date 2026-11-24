@@ -1,4 +1,4 @@
-![banner](f.png)
+![C](https://img.shields.io/badge/-Embedded%20C-00599C?logo=c&logoColor=white)
 
 # Hi, I'm Dhyan
 
@@ -50,3 +50,5 @@ Looking for full-time embedded firmware / hardware roles (graduating 2027)
 ## Reach me
 
 [LinkedIn](https://linkedin.com/in/dhyan-poojary) · [Email](mailto:dhyanpoojary95@gmail.com)
+
+![banner](f.png)
