@@ -1,6 +1,6 @@
-![C](https://img.shields.io/badge/-Embedded%20C-00599C?logo=c&logoColor=white)
-![C](https://img.shields.io/badge/-Embedded%20Systems-00397C?logo=c&logoColor=white)
-![C](https://img.shields.io/badge/-PCB%20Design-06598C?logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-Embedded%20C-00599F?logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-Embedded%20Systems-00797C?logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-PCB%20Design-06522C?logo=c&logoColor=white)
 ![C](https://img.shields.io/badge/-Firmware%20Design-10596C?logo=c&logoColor=white)
 
 # Hi, I'm Dhyan
