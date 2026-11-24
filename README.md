@@ -21,7 +21,7 @@ Looking for full-time embedded firmware / hardware roles (graduating 2027)
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**RISC-V Motorsport VCU & Telemetry**](https://github.com/kfcnode/REPO-NAME) | Modular VCU firmware (sensing, state estimation, safety monitor, control) with a CAN → Raspberry Pi → LoRa → ground station telemetry pipeline, a Wi-Fi video link, and fail-safe/E-stop logic | RISC-V, C, CAN, RPi 4B, LoRa, Python |
+| [**RISC-V Motorsport VCU & Telemetry**](https://github.com/kfcnode/riscv-motorsport-vcu) | Modular VCU firmware (sensing, state estimation, safety monitor, control) with a CAN → Raspberry Pi → LoRa → ground station telemetry pipeline, a Wi-Fi video link, and fail-safe/E-stop logic | RISC-V, C, CAN, RPi 4B, LoRa, Python |
 | [**S3-PICO NEXUS**](https://github.com/kfcnode/REPO-NAME) | Dual-MCU robotics controller on a custom 4-layer PCB: 8 servos, 4 DC motors, 2 steppers, 12–24V multi-rail power | RP2350B, ESP32-S3, KiCad |
 | [**Binary Watch**](https://github.com/kfcnode/REPO-NAME) | Fabricated binary wristwatch PCB with RTC, running on a CR2032 | ATmega328P, DS3231, KiCad/EasyEDA |
 | [**Verilog Ethernet MAC**](https://github.com/kfcnode/REPO-NAME) | Ethernet MAC with an FSM, CRC-32, and TX/RX verified in simulation | Verilog, Vivado |
