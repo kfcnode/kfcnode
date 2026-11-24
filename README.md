@@ -24,6 +24,7 @@ Looking for full-time embedded firmware / hardware roles (graduating 2027)
 | [**RISC-V Motorsport VCU & Telemetry**](https://github.com/kfcnode/riscv-motorsport-vcu) | Modular VCU firmware (sensing, state estimation, safety monitor, control) with a CAN → Raspberry Pi → LoRa → ground station telemetry pipeline, a Wi-Fi video link, and fail-safe/E-stop logic | RISC-V, C, CAN, RPi 4B, LoRa, Python |
 | [**S3-PICO NEXUS**](https://github.com/kfcnode/REPO-NAME) | Dual-MCU robotics controller on a custom 4-layer PCB: 8 servos, 4 DC motors, 2 steppers, 12–24V multi-rail power | RP2350B, ESP32-S3, KiCad |
 | [**Binary Watch**](https://github.com/kfcnode/REPO-NAME) | Fabricated binary wristwatch PCB with RTC, running on a CR2032 | ATmega328P, DS3231, KiCad/EasyEDA |
+| [**F1 Driver & Car Dual Telemetry**](https://github.com/kfcnode/f1-telemetry-esp32-pi-dash) | An ESP32 driver-vitals node and a Raspberry Pi hub stream F1-style telemetry over Wi-Fi to a live Flask/Dash pit-wall dashboard with automatic alerts. | Python, ESP32-S3, C, RPi 3B |
 | [**Verilog Ethernet MAC**](https://github.com/kfcnode/REPO-NAME) | Ethernet MAC with an FSM, CRC-32, and TX/RX verified in simulation | Verilog, Vivado |
 | [**Embedded C Drivers**](https://github.com/kfcnode/REPO-NAME) | Register-level GPIO, UART (ISR + ring buffer), I2C, SPI, and state machines, no libraries | C, ATmega328PB |
 | [**PCB Design Portfolio**](https://github.com/kfcnode/REPO-NAME) | Collection of boards: eval boards, differential pairs, multi-layer designs | KiCad, Allegro |
