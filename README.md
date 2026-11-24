@@ -47,6 +47,7 @@ Looking for full-time embedded firmware / hardware roles (graduating 2027)
 - 🥈 Runner-up, RoboManthan hardware hackathon (Nov 2025)
 - 🥇 Winner, Arduino Bootcamp 2024, BMSCE
 - 🛰️ ECAD intern, ISRO URSC: 4-layer flight PCB, and PDN/impedance work on a 16-layer board
+- 🔌 Electronics intern, Sheriyans Pvt Ltd (Kukoonlabs): ideated a 6-layer PCB design for a Robotics Control Unit
 
 ---
 
