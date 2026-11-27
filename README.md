@@ -28,6 +28,7 @@ Looking for full-time embedded firmware / hardware roles (graduating 2027)
 | [**Verilog Ethernet MAC**](https://github.com/kfcnode/REPO-NAME) | Ethernet MAC with an FSM, CRC-32, and TX/RX verified in simulation | Verilog, Vivado |
 | [**Embedded C Drivers**](https://github.com/kfcnode/REPO-NAME) | Register-level GPIO, UART (ISR + ring buffer), I2C, SPI, and state machines, no libraries | C, ATmega328PB |
 | [**PCB Design Portfolio**](https://github.com/kfcnode/REPO-NAME) | Collection of boards: eval boards, differential pairs, multi-layer designs | KiCad, Allegro |
+| [RV32I RTL-to-GDSII](https://github.com/kfcnode/rv32i-riscv-rtl-to-gdsii) | Single-cycle 32-bit RISC-V core taken from RTL through gate-level sim, synthesis, place and route to GDSII on Cadence, with 4,516 cells, 16-buffer clock tree and a passing post-layout simulation | Verilog, RISC-V RV32I, Cadence Genus, Innovus, Xcelium |
 
 ---
 
